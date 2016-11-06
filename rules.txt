@@ -1,0 +1,12 @@
+chat.chatra.io/
+callback.onlinepbx.ru
+pozvonim.com/widget/
+api.tinypass.com
+callbackkiller.ru/widget*
+api.leadiacloud.com/
+zadarma.com/callback/widget/
+uptocall.com/widget/
+.jivosite.com
+*.livetex.ru
+callbackhunter.com/_hunter/
+smartcallback.ru/api/*
