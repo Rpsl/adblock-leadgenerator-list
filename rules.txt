@@ -16,3 +16,4 @@ uptocall.com/widget/
 *.livetex.ru
 callbackhunter.com/_hunter/
 smartcallback.ru/api/*
+w.uptolike.com/widgets/*
