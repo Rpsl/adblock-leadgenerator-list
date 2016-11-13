@@ -1,20 +1,20 @@
 [Adblock Plus 1.1]
-! Checksum: Yc1TMJDwLbg0yGzD1lCE2g
+! Checksum: npcLUw4Gqyh+sNJApYFm+A
 ! Title: Lead Generator
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/Rpsl/adblock-leadgenerator-list
 !-----------------General tracking systems-----------------!
 ! *** Fetched from: https://raw.githubusercontent.com/Rpsl/adblock-leadgenerator-list/master/list/list.txt ***
-chat.chatra.io/
-callback.onlinepbx.ru
-pozvonim.com/widget/
-api.tinypass.com
-callbackkiller.ru/widget*
-api.leadiacloud.com/
-zadarma.com/callback/widget/
-uptocall.com/widget/
-.jivosite.com
 *.livetex.ru
+.jivosite.com
+api.leadiacloud.com/
+api.tinypass.com
+callback.onlinepbx.ru
 callbackhunter.com/_hunter/
+callbackkiller.ru/widget*
+chat.chatra.io/
+pozvonim.com/widget/
 smartcallback.ru/api/*
-w.uptolike.com/widgets/*
+uptocall.com/widget/
+w.uptolike.com/widgets/
+zadarma.com/callback/widget/
