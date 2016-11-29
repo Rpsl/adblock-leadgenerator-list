@@ -13,3 +13,6 @@ smartcallback.ru/api/*
 uptocall.com/widget/
 w.uptolike.com/widgets/
 zadarma.com/callback/widget/
+api.cashmyvisit.com/
+cdn.k50.ru/k50/
+widget.cashmyvisit.com/js/
