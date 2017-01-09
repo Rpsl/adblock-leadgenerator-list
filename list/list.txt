@@ -1,11 +1,12 @@
 [Adblock Plus 1.1]
-! Checksum: +1MHcqZPr4j3l83LzUFCpw
+! Checksum: eSyBPzRrAq72EozR4nZMtQ
 ! Title: Lead Generator
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/Rpsl/adblock-leadgenerator-list
 !-----------------General tracking systems-----------------!
 ! *** Fetched from: https://raw.githubusercontent.com/Rpsl/adblock-leadgenerator-list/master/list/list.txt ***
 *.livetex.ru
+*.virtualspirits.com/
 .jivosite.com
 api.cashmyvisit.com/
 api.leadiacloud.com/

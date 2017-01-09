@@ -16,3 +16,4 @@ zadarma.com/callback/widget/
 api.cashmyvisit.com/
 cdn.k50.ru/k50/
 widget.cashmyvisit.com/js/
+*.virtualspirits.com/
