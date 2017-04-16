@@ -18,3 +18,4 @@ cdn.k50.ru/k50/
 widget.cashmyvisit.com/js/
 *.virtualspirits.com/
 lptracker.net.ru/*
+cdn.callbackkiller.com/widget/*
