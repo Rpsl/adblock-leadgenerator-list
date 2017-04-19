@@ -20,3 +20,4 @@ widget.cashmyvisit.com/js/
 lptracker.net.ru/*
 cdn.callbackkiller.com/widget/*
 files.jumpoutpopup.ru/*.js
+app.comagic.ru/static/banner/*
