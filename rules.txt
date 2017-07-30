@@ -25,3 +25,4 @@ api.venyoo.ru/wnew.js
 app.comagic.ru/*
 cdn.envybox.io/*
 whitesaas.com/api*
+widgets.binotel.com/*
