@@ -27,3 +27,4 @@ cdn.envybox.io/*
 whitesaas.com/api*
 widgets.binotel.com/*
 mod.calltouch.ru/*
+cdn.callibri.ru/*

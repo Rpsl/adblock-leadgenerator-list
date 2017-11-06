@@ -12,5 +12,5 @@ RULES=$(<rules.txt)
 echo "$HEAD" > ./misc/tmp.txt
 echo "$RULES"|sort >> ./misc/tmp.txt
 
-./misc/addChecksum.py < ./misc/tmp.txt > ./list/list.txt
+python2 ./misc/addChecksum.py < ./misc/tmp.txt > ./list/list.txt
 rm ./misc/tmp.txt
