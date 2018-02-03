@@ -29,3 +29,4 @@ widgets.binotel.com/*
 mod.calltouch.ru/*
 cdn.callibri.ru/*
 core.perezvoni.com/*
+k50-a.akamaihd.net/*
