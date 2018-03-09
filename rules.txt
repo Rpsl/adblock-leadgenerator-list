@@ -31,3 +31,4 @@ cdn.callibri.ru/*
 core.perezvoni.com/*
 k50-a.akamaihd.net/*
 cp.onicon.ru/js/*
+cdn.pozvonim.com/widget/*
