@@ -33,3 +33,5 @@ k50-a.akamaihd.net/*
 cp.onicon.ru/js/*
 cdn.pozvonim.com/widget/*
 code.tidio.co/*.js
+js.intercomcdn.com/*
+embed.tawk.to/*
