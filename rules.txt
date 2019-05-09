@@ -35,3 +35,5 @@ cdn.pozvonim.com/widget/*
 code.tidio.co/*.js
 js.intercomcdn.com/*
 embed.tawk.to/*
+static.me-talk.ru/*.js
+*.push4site.com/*.js
