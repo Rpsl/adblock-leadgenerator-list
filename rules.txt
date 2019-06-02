@@ -37,3 +37,4 @@ js.intercomcdn.com/*
 embed.tawk.to/*
 static.me-talk.ru/*.js
 *.push4site.com/*.js
+widget.replain.cc/*.js
