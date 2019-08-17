@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: aPDMOUOzUUGdp8Qz4Z0RFg
+! Checksum: n8pepvcWjNL6MmpAuvcbtg
 ! Title: Lead Generator
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/Rpsl/adblock-leadgenerator-list
@@ -32,6 +32,7 @@ embed.tawk.to/*
 files.jumpoutpopup.ru/*.js
 js.intercomcdn.com/*
 k50-a.akamaihd.net/*
+leadback.ru/js/*.js
 leadhacker.ru/t/
 lptracker.net.ru/*
 mod.calltouch.ru/*

@@ -38,3 +38,4 @@ embed.tawk.to/*
 static.me-talk.ru/*.js
 *.push4site.com/*.js
 widget.replain.cc/*.js
+leadback.ru/js/*.js
