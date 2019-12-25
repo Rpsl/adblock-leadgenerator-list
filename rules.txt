@@ -1,5 +1,6 @@
 *.livetex.ru
 .jivosite.com
+code.jivosite.com/script/
 api.leadiacloud.com/
 api.tinypass.com
 callback.onlinepbx.ru
