@@ -1,5 +1,12 @@
+<p align="center">
+  <a href="abp:subscribe?location=https://raw.githubusercontent.com/Rpsl/adblock-leadgenerator-list/master/list/list.txt">
+    <img src="https://github.com/Rpsl/adblock-leadgenerator-list/blob/master/misc/screen2.png?raw=true">
+  </a>
+</p>
+
 # adblock-leadgenerator-list
 AdBlock list for blocking 'how i can help you?' widgets
+
 
 ## Subscription
 
