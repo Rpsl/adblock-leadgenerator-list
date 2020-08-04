@@ -9,6 +9,7 @@ callbackkiller.ru/widget*
 callkeeper.ru/modules/widget/
 callkeeper.ru/w/
 chat.chatra.io/
+chaser.ru/widget/*.js
 leadhacker.ru/t/
 pozvonim.com/widget/
 smartcallback.ru/api/*
