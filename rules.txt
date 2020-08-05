@@ -44,3 +44,4 @@ widget.replain.cc/*.js
 leadback.ru/js/*.js
 clicktex.ru/code/
 perezvonok.ru/s.php
+static*.cleversite.ru/widget*.js
