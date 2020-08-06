@@ -45,3 +45,4 @@ leadback.ru/js/*.js
 clicktex.ru/code/
 perezvonok.ru/s.php
 static*.cleversite.ru/widget*.js
+widget.feedot-lawyer.ru/js/callback*.min.js~
